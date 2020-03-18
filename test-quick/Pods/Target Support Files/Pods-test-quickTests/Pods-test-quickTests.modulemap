@@ -1,0 +1,6 @@
+framework module Pods_test_quickTests {
+  umbrella header "Pods-test-quickTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
